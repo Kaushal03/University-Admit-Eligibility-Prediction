@@ -22,4 +22,9 @@ The user does not need to log in for this. The user can simply enter their score
 ✔ A Web page is designed for the users where they can check their admission prediction by providing the necessary details.            
 ✔ Users can learn more about university admissions after entering the essential information on the prediction page.                   
 ✔ This University Admit Eligibility Predictor plays a significant role in outlining the precise eligibility requirements of current 
-   universities and helps the user shape to their future.
+universities and helps the user shape to their future.
+
+### FUTURE ENHANCEMENT
+✔ Future indeed holds for big data science as there is a huge amount of data in the age of the internet, waiting to be utilized to make predictions, decisions and inventions.                                                                                            
+✔ One of the most significant benefits of the University Admit Eligibility Predictor is that they are always open for business and can accept the predictions.                                                                                                            
+✔ Universities can use this project to get their work done quickly and efficiently in order to provide admissions to students.
