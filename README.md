@@ -9,3 +9,8 @@
 ✔ To enable the online Eligibility Checking for the Universities.                                                                         
 ✔ To reduce the work load of the students.                                                                                                
 ✔ It will Automatically calculate the chance of the students.
+
+### ARCHITECTURE DIAGRAM
+![image](https://github.com/Kaushal03/University-Admit-Eligibility-Prediction/assets/67416597/3ee4afd3-3f60-4eec-b9b9-ad1115c87a0e)
+
+
