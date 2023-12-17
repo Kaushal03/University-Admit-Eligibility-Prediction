@@ -28,3 +28,7 @@ universities and helps the user shape to their future.
 ✔ Future indeed holds for big data science as there is a huge amount of data in the age of the internet, waiting to be utilized to make predictions, decisions and inventions.                                                                                            
 ✔ One of the most significant benefits of the University Admit Eligibility Predictor is that they are always open for business and can accept the predictions.                                                                                                            
 ✔ Universities can use this project to get their work done quickly and efficiently in order to provide admissions to students.
+
+### DEMO LINK 
+<a href="https://drive.google.com/file/d/1u8dSugItDrJVZAE7EoTAYULQMfRMCUFC/view?usp=sharing" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 16px; border-radius: 5px; cursor: pointer;">Download Project</a>
+
