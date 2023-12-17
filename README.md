@@ -30,5 +30,5 @@ universities and helps the user shape to their future.
 ✔ Universities can use this project to get their work done quickly and efficiently in order to provide admissions to students.
 
 ### DEMO LINK 
-<a href="https://drive.google.com/file/d/1u8dSugItDrJVZAE7EoTAYULQMfRMCUFC/view?usp=sharing" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 16px; border-radius: 5px; cursor: pointer;">Download Project</a>
+<a href="https://drive.google.com/file/d/1u8dSugItDrJVZAE7EoTAYULQMfRMCUFC/view?usp=sharing" style="display: inline-block; padding: 12px 24px; background-color: #3498db; color: #ffffff; text-decoration: none; font-size: 18px; font-weight: bold; text-align: center; border-radius: 6px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease;">WATCH HERE</a>
 
